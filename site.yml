@@ -1,4 +1,4 @@
 ---
 - hosts: all
   roles:
-    - role: /Converge-DSA/sap-hana-deployment
+    - role: https://github.com/Converge-DSA/sap-hana-deployment
